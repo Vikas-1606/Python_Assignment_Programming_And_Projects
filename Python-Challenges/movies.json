@@ -1,0 +1,12 @@
+[
+    {
+        "title": "A",
+        "genre": "Comedy",
+        "rating": 9.0
+    },
+    {
+        "title": "B",
+        "genre": "Fight",
+        "rating": 7.0
+    }
+]
