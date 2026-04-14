@@ -82,16 +82,6 @@ This repository is created for:
 - Practicing coding problems  
 - Building small real-world projects  
 
----
-
-## 📈 Future Improvements
-
-- Add GUI-based projects  
-- Improve project structure  
-- Add documentation for each project  
-- Include unit testing  
-
----
 
 ## 👨‍💻 Author
 
